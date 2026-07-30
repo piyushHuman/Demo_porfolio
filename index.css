@@ -1,0 +1,20 @@
+    
+    
+    
+    
+    
+    .avatar-wrapper .avatar-inner {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: var(--bg-primary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 8rem;
+            font-weight: 700;
+            color: var(--accent);
+            user-select: none;
+             background: url('https://t3.ftcdn.net/jpg/02/72/68/18/360_F_272681855_yaxT3ZJGgOo3AHzNEKOfORe5YznybPCP.jpg') center/cover no-repeat;
+    color: transparent; /* hide the initials */
+        }
